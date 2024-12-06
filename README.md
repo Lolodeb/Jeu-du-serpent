@@ -45,6 +45,32 @@ Pour exécuter le projet localement, suivez ces étapes :
    
 3. Ouvrez le fichier index.html dans votre navigateur.
 
+## Utilisation
+Comment jouer au jeu Snake ?
+
+Lancement du jeu :
+Ouvrez le jeu dans un navigateur web.
+Le serpent démarre automatiquement une fois le jeu chargé.
+Contrôle du serpent :
+Utilisez les flèches directionnelles de votre clavier pour diriger le serpent.
+But du jeu :
+Dirigez le serpent pour manger les aliments rouges apparaissant aléatoirement sur le plateau.
+Chaque aliment mangé fait grandir le serpent et augmente votre score de 1 point.
+Redémarrer une partie :
+Si le jeu se termine, appuyez sur le bouton Restart pour recommencer une nouvelle partie.
+
+Règles du jeu Snake
+Manger les aliments :
+Le serpent doit manger les aliments pour grandir et augmenter le score.
+Les aliments apparaissent dans des positions aléatoires sur le plateau.
+Éviter les collisions :
+Le jeu se termine si : 
+La tête du serpent touche les bords du plateau.
+La tête du serpent entre en collision avec son propre corps.
+Difficulté croissante :
+Le serpent devient de plus en plus long à mesure que vous mangez des aliments, ce qui rend la navigation plus difficile.
+Objectif :
+Obtenez le meilleur score possible en mangeant autant d’aliments que possible avant de perdre.
 
 
 
