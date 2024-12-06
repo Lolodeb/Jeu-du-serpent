@@ -37,11 +37,11 @@ Pour exécuter le projet localement, suivez ces étapes :
 
 1. Clonez le dépôt du projet :
    
-   git clone https:
+   git clone https://lolodeb.github.io/Jeu-du-serpent/
    
 2. Accédez au dossier du projet :
    
-   cd pierre-feuille-ciseaux
+   cd Jeu-du-serpent
    
 3. Ouvrez le fichier index.html dans votre navigateur.
 
