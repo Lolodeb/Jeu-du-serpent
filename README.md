@@ -72,6 +72,13 @@ Le serpent devient de plus en plus long à mesure que vous mangez des aliments, 
 Objectif :
 Obtenez le meilleur score possible en mangeant autant d’aliments que possible avant de perdre.
 
+## Contributeurs
+- Josma Lordly Mayhelk Rôle (ex : Designer )
+- Lafleur Abel Rôle (ex : Développeur Frontend)
+- Saint-Juste Christian Rôle (ex : Développeur Backend)
+- Verna Antonio Rôle (ex : Développeur Backend)
+## Licence
+Ce projet est sous licence MIT - voir le fichier [LICENSE]
 
 
 
