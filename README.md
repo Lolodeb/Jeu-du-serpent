@@ -73,8 +73,8 @@ Objectif :
 Obtenez le meilleur score possible en mangeant autant d’aliments que possible avant de perdre.
 
 ## Contributeurs
-- Josma Lordly Mayhelk Rôle (ex : Designer )
-- Lafleur Abel Rôle (ex : Développeur Frontend)
+- Josma Lordly Mayhelk Rôle (ex : Développeur Frontend)
+- Lafleur Abel Rôle (ex : Designer)
 - Saint-Juste Christian Rôle (ex : Développeur Backend)
 - Verna Antonio Rôle (ex : Développeur Backend)
 ## Licence
